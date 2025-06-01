@@ -57,7 +57,7 @@ Edit
 python plot_metrics.py
 View your predictions in predicted_reviews.csv.
 
-📈 Results
+##📈 Results
 The fine-tuned BERT model achieved:
 
 Accuracy: 91.80%
@@ -66,14 +66,14 @@ F1-Score: 0.92 (macro average)
 
 Misclassifications were minimal, as supported by the classification report and the visualized bar chart.
 
-📚 Acknowledgments
+##📚 Acknowledgments
 Hugging Face Transformers
 
 PyTorch
 
 Original idea inspired by the study: Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3) [1]
 
-🔖 Keywords
+##🔖 Keywords
 Sentiment Analysis, BERT, NLP, Hotel Reviews, Hugging Face, Fine-Tuning, Transformers, Python, Deep Learning
 
 
