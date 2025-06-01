@@ -68,9 +68,9 @@ Hugging Face Transformers
 
 PyTorch
 
-Original idea inspired by the study: Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3) [1]
+Original idea inspired by the study: Optimization Techniques for Sentiment Analysis Based on LLM (GPT-3)
 
 ---
 
 ## 🔖 Keywords
-Sentiment Analysis BERT NLP Hotel Reviews Hugging Face Fine-Tuning Transformers Python Deep Learning
+Sentiment Analysis, BERT, NLP, Hotel Reviews, Hugging Face Fine-Tuning Transformers, Python, Deep Learning
