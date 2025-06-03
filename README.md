@@ -6,7 +6,7 @@ This project performs sentiment analysis on hotel reviews by fine-tuning a BERT-
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Sentiment analysis is a crucial Natural Language Processing (NLP) task that identifies and categorizes sentiments expressed in textual data. This project focuses on hotel reviews, which are valuable for understanding customer satisfaction and service quality.
 
@@ -14,14 +14,14 @@ Unlike traditional approaches, this study utilizes a fine-tuned BERT model to im
 
 ---
 
-## 🧠 Model Used
+##  Model Used
 
 - **BERT (Bidirectional Encoder Representations from Transformers)** – pre-trained transformer model from Hugging Face
 - Fine-tuned on a labeled dataset of hotel reviews (positive or negative)
 
 ---
 
-## 📊 Features
+##  Features
 
 - Preprocessing of review text  
 - Tokenization using Hugging Face tokenizer  
@@ -32,7 +32,7 @@ Unlike traditional approaches, this study utilizes a fine-tuned BERT model to im
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 
@@ -59,11 +59,11 @@ Misclassifications were minimal, as supported by the classification report and t
 
 ---
 
-## 📌 Figure 1 – Accuracy Bar Chart
+##  Figure 1 – Accuracy Bar Chart
 This figure shows the performance of the sentiment classifier across positive and negative sentiment labels. The high bars reflect strong classification performance, especially with minimal misclassification in the "negative" label group, while maintaining good precision and recall for the "positive" group.
 
 ---
-## 📚 Acknowledgments
+##  Acknowledgments
 Hugging Face Transformers
 
 PyTorch
@@ -72,5 +72,5 @@ Original idea inspired by the study: Optimization Techniques for Sentiment Analy
 
 ---
 
-## 🔖 Keywords
+##  Keywords
 Sentiment Analysis, BERT, NLP, Hotel Reviews, Hugging Face Fine-Tuning Transformers, Python, Deep Learning
