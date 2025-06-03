@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 ---
 
-## 📈 Results
+##  Results
 The fine-tuned BERT model achieved the following:
 
 Accuracy: 91.80%
